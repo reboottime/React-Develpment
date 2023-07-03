@@ -6,9 +6,7 @@
 import throttle from "lodash/throttle";
 import { useEffect, useState } from "react";
 
-const USER_EVENTS = ["mousemove", "mousedown", "resize", "touchstart", "wheel"];
-
-export default function useIdle(ms = 1000 * 60) {
+export default function useIdle(ms = 1000 * 60): boolean {
   const [isIdle, setIsIdle] = useState(false);
 
   useEffect(() => {
@@ -34,7 +32,7 @@ export default function useIdle(ms = 1000 * 60) {
       }
     };
 
-    USER_EVENTS.forEach((e) => {
+    ACTIVITIES.forEach((e) => {
       // To avoid ts lint warning
       const handler = handleEvent.bind(null, e);
       boundEventHandlers.push(handler);
@@ -51,7 +49,7 @@ export default function useIdle(ms = 1000 * 60) {
     document.addEventListener("visibilitychange", handleVisibilityChange);
 
     return () => {
-      USER_EVENTS.forEach((e, index) => {
+      ACTIVITIES.forEach((e, index) => {
         window.removeEventListener(e, boundEventHandlers[index]);
       });
 
@@ -64,3 +62,5 @@ export default function useIdle(ms = 1000 * 60) {
 
   return isIdle;
 }
+
+const ACTIVITIES = ["mousemove", "mousedown", "resize", "touchstart", "wheel"];
