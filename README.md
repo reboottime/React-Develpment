@@ -6,3 +6,4 @@
 - [2023/08/07: Talk about Stepper component in Mantine UI](https://github.com/reboottime/ReactDevEveryday/issues/20)
 - [2023/08/08: Talk about Mantine UI Alert component and Notification System](https://github.com/reboottime/ReactDevEveryday/issues/24)
 - [2023/09/09: React Content Editable and its application](https://github.com/reboottime/ReactDevEveryday/issues/50)
+- [2023/09/12: Mantine UI theming and styling system](https://github.com/reboottime/ReactDevEveryday/issues/57)
