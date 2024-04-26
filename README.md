@@ -1,5 +1,7 @@
 # Talk about React Development Everyday
 
+### 2023
+
 - [2023/07/05: Uncover the rationale of Mantine UI Transition component](https://github.com/reboottime/ReactDevEveryday/issues/3)
 - [2023/07/06: React Portal and Mantine UI portal](https://github.com/reboottime/ReactDevEveryday/issues/5)
 - [2023/07/30: useListState and useSetState of Mantine UI/hooks](https://github.com/reboottime/ReactDevEveryday/issues/16)
@@ -8,3 +10,7 @@
 - [2023/08/08: Talk about Mantine UI Alert component and Notification System](https://github.com/reboottime/ReactDevEveryday/issues/24)
 - [2023/09/09: React Content Editable and its application](https://github.com/reboottime/ReactDevEveryday/issues/50)
 - [2023/09/12: Mantine UI theming and styling system](https://github.com/reboottime/ReactDevEveryday/issues/57)
+
+### 2024
+
+- [Advanced React:Intro to re-render](https://github.com/reboottime/ReactDevEveryday/issues/71)
