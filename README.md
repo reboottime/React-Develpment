@@ -14,3 +14,6 @@
 ### 2024
 
 - [Advanced React:Intro to re-render](https://github.com/reboottime/ReactDevEveryday/issues/71)
+- [Advanced React: Element, component and re-render](https://github.com/reboottime/ReactDevEveryday/issues/72)
+- [Advanced React: Components as props, part 1](https://github.com/reboottime/ReactDevEveryday/issues/74)
+- [Advanced React: Components as props, part 2](https://github.com/reboottime/ReactDevEveryday/issues/75)
