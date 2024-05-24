@@ -20,3 +20,4 @@
 - [React Query: Best Practices](https://github.com/reboottime/ReactDevEveryday/issues/96)
 - [Error Handling For React App](https://github.com/reboottime/ReactDevEveryday/issues/100)
 - [Test Driven React App development](https://github.com/reboottime/React-Web-Develpment/issues/98)
+- [Frontend System Design: Data table](https://www.youtube.com/watch?v=u6jhTo13_No&ab_channel=Front-EndEngineer)
