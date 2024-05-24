@@ -18,3 +18,4 @@
 - [Advanced React: Components as props, part 1](https://github.com/reboottime/ReactDevEveryday/issues/74)
 - [Advanced React: Components as props, part 2](https://github.com/reboottime/ReactDevEveryday/issues/75)
 - [React Query: Best Practices](https://github.com/reboottime/ReactDevEveryday/issues/96)
+- [Error Handling For React App](https://github.com/reboottime/ReactDevEveryday/issues/100)
