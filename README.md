@@ -5,7 +5,8 @@
 - [The knowledge System of React 17~19, Part 1: Major Concepts](https://github.com/reboottime/React-Develpment/issues/112)
 - [React knowledge system 17~19 Part 2: Hooks System](https://github.com/reboottime/React-Develpment/issues/113)
 - [Using Tailwind Like a Guru in React app](https://github.com/reboottime/React-Develpment/issues/116)
-- [Cstomize shadcn/ui series: Calendar](https://github.com/reboottime/React-Develpment/issues/118)
+- [Customize shadcn/ui series: Calendar](https://github.com/reboottime/React-Develpment/issues/118)
+- [Realtime Human Face Presence Detection Using FaceApi](https://github.com/reboottime/React-Develpment/issues/119)
 
 ### 2024
 
