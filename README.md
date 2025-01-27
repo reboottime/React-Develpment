@@ -7,6 +7,7 @@
 - [Using Tailwind Like a Guru in React app](https://github.com/reboottime/React-Develpment/issues/116)
 - [Customize shadcn/ui series: Calendar](https://github.com/reboottime/React-Develpment/issues/118)
 - [Realtime Human Face Presence Detection Using FaceApi](https://github.com/reboottime/React-Develpment/issues/119)
+- [Next.js knowledge system (for app folder)](https://github.com/reboottime/React-Develpment/issues/115)
 
 ### 2024
 
