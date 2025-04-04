@@ -9,6 +9,7 @@
 - [Realtime Human Face Presence Detection Using FaceApi](https://github.com/reboottime/React-Develpment/issues/119)
 - [Next.js knowledge system (for app folder)](https://github.com/reboottime/React-Develpment/issues/115)
 - [Recall RBAC on Frontend App ( browser side)](https://github.com/reboottime/React-Develpment/issues/123)
+- [The Tools and Strategies to solve Performance Issue in React App](https://github.com/reboottime/React-Develpment/issues/126)
 
 ### 2024
 
